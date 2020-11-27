@@ -1,0 +1,166 @@
+body {
+	background: url('assets/wedding-landing-background.png');	
+}
+.cover {
+  background: url('https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-cover.jpg');
+  background-repeat: no-repeat;  
+  background-position:center;
+  background-size: cover;
+  display: table;
+  text-align: center;
+  height: 100vh;
+  width: 100vw;
+}
+.wrapper-zoe {
+	color: #444349;
+	padding: 150px;
+	display: table-cell;
+	vertical-align: middle;	
+}
+.text {
+background: hsla(100,0%,0%,.5);
+	padding: .625rem;
+}
+.tagline {
+	color: floralwhite;
+	font-family: Libre baskerville;
+	font-size: 1.25rem;
+	letter-spacing: .15rem;
+	}		
+.miri {
+	font-family: Great Vibes;
+	color: #d2ba87;
+	font-size: 6rem;
+	letter-spacing: 10px;
+}
+.date {
+	color: floralwhite;
+	font-size: 1.25 rem;
+	letter-spacing: .15rem;	
+}
+h1 {
+	font-family: Great vibes;
+	text-align: center;
+	font-size: 5rem;
+	color: #444349;
+}
+img {
+	height: 7.5rem;
+	padding: 
+}
+article {
+	display: flex;
+	align-items: center;
+	justify-content:space-between;
+	color: #444349;
+	padding-left: 5rem;
+	padding-bottom: 2rem;
+}
+.ceremony::after {
+  content: "";
+  display: block;
+  height: .1875rem;
+  width: 25vw;
+}
+
+.photos::after {
+  content: "";
+  display: block;
+  height: .1875rem;
+  width: 25vw; 
+}
+.party::after {
+  content: "";
+  display: block;
+  height: .1875rem;
+  width: 25vw;
+  	
+}
+/*stiluri sectiune Program*/
+.program {
+	background-color: #444349;
+	color: #d2ba87;	
+	text-align: center;
+	padding-top: 9px;
+	padding-bottom: 7px;
+}
+quote {
+	font-size: 28px;
+}
+ul {
+	list-style-type: none;
+	
+}
+li {
+	font-family: mulish;
+	text-align: left;
+	padding-left: 300px;
+}
+/* stiluri gifts*/
+.gifts {
+	text-align: center;
+	color: #444349;
+	font-family: libre baskerville;
+}
+img {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+/*stiluri questions&answers*/
+.questions {
+	background-color: #444349;
+	color: #d2ba87;
+}
+.wrapper {
+	display: flex;
+	color: #d2ba87;	
+	font-family: Libre baskerville;
+}
+.travel {
+	width: 30%;
+	height: auto;
+	display: block;
+	font-family: Libre baskerville;
+	padding-right: 25px;
+}
+.food {
+	width: 30%;
+	height: auto;
+	display: block;
+	font-family: Libre baskerville;
+	padding-right: 25px;
+}
+.stuff {
+	width: 30%;
+	height: auto;
+	display: block;
+	font-family: Libre baskerville;
+	padding-right: 25px;
+}
+a {
+	color: #bd806e;
+}
+h2 {
+	padding-bottom: 15px;
+}
+.contact {
+	color: #444349;
+	text-align: center;
+	font-family: libbre baskerville;
+}
+p {
+	font-family: mulish;
+}
+footer {
+	background-color: #444349;
+	color: floralwhite;
+	text-align: center;
+	padding: 12px 30px;
+	font-family: libre baskerville;
+}
+
+
+
+
+
+
